@@ -1,0 +1,3 @@
+#ignorar pasta .vs do Visual Studio
+#ignorando a pasta interna do Visual Studio
+.vs/
